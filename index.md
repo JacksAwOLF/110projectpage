@@ -39,6 +39,6 @@ It's interesting how if you reverse the list, you would get these activities ran
 
 Anyways, here's a humble hardworking guy
 
-![Khabib](https://cdn.images.express.co.uk/img/dynamic/167/590x/secondary/Khabib-Hat-2041264.jpg)
+![](https://cdn.images.express.co.uk/img/dynamic/167/590x/secondary/Khabib-Hat-2041264.jpg)
 
 and in case you want to see the [README.md](README.md) file...
