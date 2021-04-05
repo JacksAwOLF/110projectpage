@@ -7,14 +7,14 @@ I remember my dad told me before going to college:
 
 and so I did. It took a while to get used to the operating system, but I definitely thought it was cool that I could run linux terminal commands like
 
-'''
+```
 ls
 cd
 top
 touch
 who
 grep
-'''
+```
 
 and imagine that I am a real programmer. However, recently I've noticed a couple drawbacks: 
 
@@ -39,6 +39,6 @@ It's interesting how if you reverse the list, you would get these activities ran
 
 Anyways, here's a humble hardworking guy
 
-![](https://cdn.images.express.co.uk/img/dynamic/167/590x/secondary/Khabib-Hat-2041264.jpg)
+![img](https://cdn.images.express.co.uk/img/dynamic/167/590x/secondary/Khabib-Hat-2041264.jpg)
 
 and in case you want to see the [README.md](README.md) file...
